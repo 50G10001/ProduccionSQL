@@ -42,3 +42,4 @@ Flujo de Trabajo scripts enviados a producción, Análisis Léxico y Sintactico
 
         . Carga de datos de prueba para estadística de uso automatizado fuera de entorno producción o en desarrollo
         . Si la aplicación no tiene estadística de uso, resultados de emulación en entorno test dentro de producción
+        . Automatización gitactions para emular el proceso en GOOGLE Data Studio
